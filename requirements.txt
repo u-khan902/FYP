@@ -1,0 +1,17 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+xgboost
+openpyxl
+pytest
+python-dotenv               
+loguru  
+imblearn
+xgboost
+catboost
+langchain
+sentence-transformers
+faiss-cpu
+torch 
